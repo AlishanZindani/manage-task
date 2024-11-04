@@ -16,3 +16,5 @@ This is a simple fullstack application that manages tasks with basic CRUD functi
 
 - **Backend**: NestJS, PostgreSQL
 - **Frontend**: React.js, Redux, RTK Query
+
+  Inside manage-task we have two repos the backend repo is **manage-task** and **task-app** is a frontend app.
